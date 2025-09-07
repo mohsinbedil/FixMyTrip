@@ -1,0 +1,7 @@
+
+
+
+Color:
+sea blue : #0097b2
+green: #c1ff72
+purple: #5e17eb

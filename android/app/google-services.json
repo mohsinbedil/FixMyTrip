@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1036302830333",
+    "project_id": "fixmytrip-3669d",
+    "storage_bucket": "fixmytrip-3669d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036302830333:android:ddb8df9f2ac7c8a5f44c94",
+        "android_client_info": {
+          "package_name": "com.example.fix_my_trip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036302830333-17nftuhidlrbotddk6mdahcpn9f64qt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp7Had-276vc6BlCvpDgiF7z3mGedLvrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036302830333-17nftuhidlrbotddk6mdahcpn9f64qt7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1036302830333-gdra7di84ktcsgm0m10f6afeqh8cm5f6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fix_my_trip"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
